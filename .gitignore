@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# build artifact - published on the Releases page, never committed, so the file
+# you download always matches the source that produced it
+*.package
